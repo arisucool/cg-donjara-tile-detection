@@ -1,0 +1,13 @@
+{
+  "name": "cg-donjara-tile-detection",
+  "version": "1.0.0",
+  "scripts": {
+    "dist": "npm run dist:docs",
+    "dist:docs": "marked -o docs/index.html -i README.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arisu.cool 🍓",
+  "dependencies": {
+    "marked": "^4.3.0"
+  }
+}
