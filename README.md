@@ -1,4 +1,4 @@
-# cg-donjara-tile-detection
+# [cg-donjara-tile-detection](https://arisucool.github.io/cg-donjara-tile-detection/)
 
 This repository stores the images used by [cg-donjara-navi](https://github.com/arisucool/cg-donjara-navi).
 
